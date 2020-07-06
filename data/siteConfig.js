@@ -1,12 +1,12 @@
 module.exports = {
   siteTitle: "Hi! I'm Tamara!",
-  siteDescription: `Create your online curriculum in just a few minutes with this starter`,
+  siteDescription: `Personal portfolio for Tamara Danhash`,
   keyWords: ['gatsbyjs', 'react', 'curriculum'],
   authorName: 'Tamara Danhash',
   twitterUsername: 'TDanhash',
   githubUsername: 'tamaradanhash',
   authorAvatar: '/images/c.v-picture.png',
-  authorDescription: `Developer, passionate about what I do. Always interested in how the sites were made, I started to study HTML by hobby. <br />
+  authorDescription: `Jonior developer, passionate about what I do. I fell in love with computers since the first one my father got me when I was 14, I started to study HTML by hobby. <br />
     In 2012 I started working as a support technician and I approached the developers.
     In 2015, I started to study C # and started to contribute with the team giving maintenance in an application in C # and .NET. <br />
     I currently work as a frontend developer and mainly work with <strong>Javascript, NodeJS e React.</strong>`,
@@ -88,7 +88,7 @@ module.exports = {
   icon: 'src/assets/gatsby-icon.png',
   headerLinks: [
     {
-      label: 'Francisco Santos',
+      label: 'Tamara Danhash',
       url: '/',
     },
   ],
